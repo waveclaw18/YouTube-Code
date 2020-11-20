@@ -1,0 +1,14 @@
+{
+  "name": "youtube-bot-discordjs-12",
+  "version": "1.0.0",
+  "description": "YouTube bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waveclaw18",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
